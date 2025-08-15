@@ -28,4 +28,5 @@
   <li>:before e :after</li>
   <li>addEventListener com "click" e "submit"</li>
   <li>createElement e appendChild</li>
+  <li>Dados salvos no localStorage</li>
 </ul>
